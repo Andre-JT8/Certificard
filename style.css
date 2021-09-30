@@ -102,3 +102,7 @@ body {
   color: #ffffff;
   border: 2px solid #f7f7f7;
 }
+
+.dark .container a {
+  color: #f6f6f6;
+}
